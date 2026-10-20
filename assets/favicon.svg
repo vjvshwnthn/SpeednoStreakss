@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 24 380 250" role="img" aria-label="TrF"><defs>
-<linearGradient id="blade" x1="0%" y1="60%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF008B"/><stop offset="48%" stop-color="#DB00E6"/><stop offset="100%" stop-color="#6600FF"/></linearGradient>
-<linearGradient id="gtm" gradientUnits="userSpaceOnUse" x1="260" y1="0" x2="447" y2="0"><stop stop-color="#FF008B"/><stop offset="100%" stop-color="#7000FF"/></linearGradient>
-</defs>
-<g transform="translate(-6 0) scale(.78 1)"><path fill="#07132A" d="M48 130 C78 131 98 133 109 140 C116 145 118 149 118 160 L118 238 L150 210 L150 158 C150 139 158 129 174 117 C128 132 91 131 48 130 Z"/><path fill="url(#blade)" d="M48 130 C123 99 229 65 307 37 C265 57 220 79 174 117 C127 131 87 134 48 130 Z"/></g>
-<g transform="translate(-54 2) scale(1.12 .99)"><path fill="#07132A" d="M166 219 L166 177 Q166 152 191 152 L213 152 L213 166 L193 166 Q187 166 187 174 L187 210 Q187 219 178 219 Z"/></g>
-<g transform="translate(-131 0) scale(.83 1)"><path fill="#07132A" d="M391 130 C391 115 400 104 420 97 C440 90 461 85 482 78 C463 92 444 105 430 118 C424 124 422 131 422 141 L422 161 L493 161 L464 183 L422 183 L422 211 L391 239 Z"/><path fill="url(#blade)" d="M391 130 C391 115 400 104 420 97 C455 84 510 65 551 53 C512 75 469 98 430 118 C414 126 402 129 391 130 Z"/></g>
-</svg>
